@@ -23,19 +23,21 @@
     },
     "dependencies": {
         "body-parser": "1.19.0",
-        "errorhandler": "1.5.1",
         "dotenv": "10.0.0",
+        "errorhandler": "1.5.1",
         "lodash": "4.17.21",
+        "puppeteer": "10.1.0",
         "reflect-metadata": "0.1.13",
         "winston": "3.3.3"
     },
     "devDependencies": {
         "@types/concurrently": "6.2.1",
-        "@types/eslint": "7.28.0",
         "@types/errorhandler": "1.5.0",
+        "@types/eslint": "7.28.0",
         "@types/jest": "26.0.24",
         "@types/lodash": "4.14.171",
         "@types/node": "16.4.3",
+        "@types/puppeteer": "5.4.4",
         "@types/winston": "2.4.4",
         "@typescript-eslint/eslint-plugin": "4.28.5",
         "@typescript-eslint/parser": "4.28.5",
