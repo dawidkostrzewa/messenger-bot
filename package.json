@@ -1,10 +1,10 @@
 {
-    "name": "node-typescript-boilerplate",
+    "name": "messenger-bot",
     "version": "0.1.0",
     "description": "",
     "repository": {
         "type": "git",
-        "url": "https://github.com/dawidkostrzewa/node-typescript-boilerplate.git"
+        "url": "https://github.com/dawidkostrzewa/messenger-bot.git"
     },
     "author": "Dawid Kostrzewa",
     "scripts": {
